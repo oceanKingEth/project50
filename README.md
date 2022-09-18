@@ -7,7 +7,4 @@
 7. git commit -m "message"
 8. git push -u origin main
 
-//adding some text here, testing for discord bot
-//discord bot try #2
-//third times a charm
-
+** if you make changes locally(from here in github), you need to: git pull --rebase origin main **
